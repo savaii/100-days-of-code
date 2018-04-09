@@ -64,3 +64,16 @@ So far, so good. If/Else...Switch statements. Got stuck on the Card Counting alg
 
 **Link(s) to work**
 N/A.
+
+### Day 005: 10 April 2018
+
+**Today's Progress**: 
+
+- Free Code Camp Exercises, card counting algorithm
+
+**Thoughts:** 
+
+Still very very stuck.
+
+**Link(s) to work**
+N/A.
