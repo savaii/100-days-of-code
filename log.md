@@ -52,7 +52,7 @@ More If/Else...Switch statements
 **Link(s) to work**
 N/A.
 
-### Day 004: 7 April 2018
+### Day 004: 9 April 2018
 
 **Today's Progress**: 
 
@@ -61,32 +61,6 @@ N/A.
 **Thoughts:** 
 
 So far, so good. If/Else...Switch statements. Got stuck on the Card Counting algorithm.
-
-**Link(s) to work**
-N/A.
-
-### Day 005: 8 April 2018
-
-**Today's Progress**: 
-
-- Free Code Camp Exercises. Stuck on the Card Counting algorithm.
-
-**Thoughts:** 
-
-- Refusing to check online for solutions...focus is wavering.
-
-**Link(s) to work**
-N/A.
-
-### Day 006: 9 April 2018
-
-**Today's Progress**: 
-
-- Stuck on the Card Counting algorithm.
-
-**Thoughts:** 
-
-- Refusing to check online for solutions...focus is wavering.
 
 **Link(s) to work**
 N/A.
