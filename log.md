@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: 5 April 2018
+### Day 000: 5 April 2018
 
 **Today's Progress**: 
 
@@ -12,3 +12,81 @@
 
 **Link(s) to work**
 Nothing at this time, but, here's the [podcast](https://www.codenewbie.org/podcast/how-to-learn-to-code-when-you-have-no-time-and-money) I listened to today
+
+### Day 001: 6 April 2018
+
+**Today's Progress**: 
+
+- Worked through some of a tutorial on Git.
+
+**Thoughts:** 
+
+Didnt' finish because of network issues with office internet. Also, git is unintuitive.
+
+**Link(s) to work**
+N/A.
+
+### Day 002: 7 April 2018
+
+**Today's Progress**: 
+
+- Free Code Camp Exercises
+
+**Thoughts:** 
+
+So far, so good. If/Else...Switch statements
+
+**Link(s) to work**
+N/A.
+
+### Day 003: 8 April 2018
+
+**Today's Progress**: 
+
+- Free Code Camp Exercises cont'd
+
+**Thoughts:** 
+
+More If/Else...Switch statements
+
+**Link(s) to work**
+N/A.
+
+### Day 004: 7 April 2018
+
+**Today's Progress**: 
+
+- Free Code Camp Exercises
+
+**Thoughts:** 
+
+So far, so good. If/Else...Switch statements. Got stuck on the Card Counting algorithm.
+
+**Link(s) to work**
+N/A.
+
+### Day 005: 8 April 2018
+
+**Today's Progress**: 
+
+- Free Code Camp Exercises. Stuck on the Card Counting algorithm.
+
+**Thoughts:** 
+
+- Refusing to check online for solutions...focus is wavering.
+
+**Link(s) to work**
+N/A.
+
+### Day 006: 9 April 2018
+
+**Today's Progress**: 
+
+- Stuck on the Card Counting algorithm.
+
+**Thoughts:** 
+
+- Refusing to check online for solutions...focus is wavering.
+
+**Link(s) to work**
+N/A.
