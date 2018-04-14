@@ -77,3 +77,55 @@ Still very very stuck.
 
 **Link(s) to work**
 N/A.
+
+### Day 006: 11 April 2018
+
+**Today's Progress**: 
+
+- Free Code Camp Exercises, card counting algorithm
+
+**Thoughts:** 
+
+Still very very stuck.
+
+**Link(s) to work**
+N/A.
+
+### Day 007: 12 April 2018
+
+**Today's Progress**: 
+
+- Free Code Camp Exercises, card counting algorithm
+
+**Thoughts:** 
+
+Still very very stuck.
+
+**Link(s) to work**
+N/A.
+
+### Day 008: 13 April 2018
+
+**Today's Progress**: 
+
+- Free Code Camp Exercises, card counting algorithm
+
+**Thoughts:** 
+
+Still very very stuck.
+
+**Link(s) to work**
+N/A.
+
+### Day 009: 14 April 2018
+
+**Today's Progress**: 
+
+- Free Code Camp Exercises, card counting algorithm
+
+**Thoughts:** 
+
+Still very very stuck.
+
+**Link(s) to work**
+N/A.
