@@ -129,3 +129,16 @@ Still very very stuck.
 
 **Link(s) to work**
 N/A.
+
+### Day 010: 16 April 2018
+
+**Today's Progress**: 
+
+- Free Code Camp Exercises, card counting algorithm...DONE!
+
+**Thoughts:** 
+
+WOOHOOOOOO
+
+**Link(s) to work**
+N/A.
