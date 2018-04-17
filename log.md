@@ -142,3 +142,16 @@ WOOHOOOOOO
 
 **Link(s) to work**
 N/A.
+
+### Day 011: 17 April 2018
+
+**Today's Progress**: 
+
+- Worked through four Free Code Camp exercises.
+
+**Thoughts:** 
+
+I should read the UX for dummies book that I got from the library, but playing Monster Hunter World is too fun. 
+
+**Link(s) to work**
+N/A.
