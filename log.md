@@ -155,3 +155,16 @@ I should read the UX for dummies book that I got from the library, but playing M
 
 **Link(s) to work**
 N/A.
+
+### Day 012: 22 April 2018
+
+**Today's Progress**: 
+
+- Worked through four Free Code Camp exercises.
+
+**Thoughts:** 
+
+Been sick for the past few days. I think my effort still counts for the challenge though. Well, at least I am counting it. :D
+
+**Link(s) to work**
+N/A.
