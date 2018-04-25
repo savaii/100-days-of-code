@@ -168,3 +168,42 @@ Been sick for the past few days. I think my effort still counts for the challeng
 
 **Link(s) to work**
 N/A.
+
+### Day 013: 23 April 2018
+
+**Today's Progress**: 
+
+- Worked through four Free Code Camp exercises. Objects!
+
+**Thoughts:** 
+
+- I'm lagging behind!
+
+**Link(s) to work**
+N/A.
+
+### Day 014: 24 April 2018
+
+**Today's Progress**: 
+
+- Worked through four Free Code Camp exercises. Objects!
+
+**Thoughts:** 
+
+- I'm lagging behind!
+
+**Link(s) to work**
+N/A.
+
+### Day 015: 25 April 2018
+
+**Today's Progress**: 
+
+- Worked through four Free Code Camp exercises. Objects!
+
+**Thoughts:** 
+
+- I'm lagging behind!
+
+**Link(s) to work**
+N/A.
