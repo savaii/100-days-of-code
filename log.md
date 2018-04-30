@@ -207,3 +207,43 @@ N/A.
 
 **Link(s) to work**
 N/A.
+
+### Day 016: 26 April 2018
+
+**Today's Progress**: 
+
+- Worked through four Free Code Camp exercises. Objects!
+
+**Thoughts:** 
+
+- I'm lagging behind!
+
+**Link(s) to work**
+N/A.
+
+### Day 017: 27 April 2018
+
+**Today's Progress**: 
+
+- Worked through four Free Code Camp exercises. Objects!
+
+**Thoughts:** 
+
+- I'm lagging behind!
+
+**Link(s) to work**
+N/A.
+
+### Day 018: 30 April 2018
+
+**Today's Progress**: 
+
+- Worked through four Free Code Camp exercises. Objects!
+
+**Thoughts:** 
+
+- Finally finished this one and it feels good. The main problem I had with this one was not reading the instructions properly.
+
+**Link(s) to work**
+N/A.
+
